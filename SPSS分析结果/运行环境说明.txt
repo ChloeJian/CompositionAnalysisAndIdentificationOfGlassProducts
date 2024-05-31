@@ -1,0 +1,2 @@
+软件：IBM SPSS Statistics
+版本：23及以上
